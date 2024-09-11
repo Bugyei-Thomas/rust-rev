@@ -1,5 +1,5 @@
 # Rust-rev
-An offensive rust script to create a reverse shell.
+A simple rust rev-shell.
 
 ## Requirements
 - Rust installed (see [rust installation guide](https://www.rust-lang.org/tools/install))
